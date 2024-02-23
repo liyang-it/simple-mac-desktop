@@ -19,7 +19,7 @@ const items = ref([
   { id: 1, title: '主页', icon: home, url: 'http://liyangme.top' },
   { id: 2, title: '哈弗ADB', icon: adb, url: 'http://liyangme.top/adb' },
   { id: 3, title: 'Docker简单配置运行', icon: docker, url: 'http://liyangme.top/docker' },
-  { id: 4, title: 'Java中文手册', icon: java, url: 'https://jdk-docs-git-main-liyang-it.vercel.app/' },
+  { id: 4, title: 'Java中文手册', icon: java, url: 'https://jdk.vercel.liyangme.top/' },
   { id: 5, title: '工商管理自考资料', icon: zikao, url: 'http://liyangme.top/zikao' },
   { id: 6, title: 'vue-admin-element-liyangit', icon: vueAdminElement, url: 'https://liyang-it.github.io/vue-admin-page/#/login?redirect=%2Fdashboard' },
   { id: 7, title: 'vue-admin-template-liyangit', icon: vueAdminTemplate, url: 'https://liyang-it.github.io/vue-admin-template-liyangit/#/login?redirect=%2Fdashboard' },
